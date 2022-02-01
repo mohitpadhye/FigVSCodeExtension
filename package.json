@@ -1,7 +1,8 @@
 {
     "name": "figextension",
-    "displayName": "FigExtension",
-	"publisher": "MohitPadhye",
+    "displayName": "Fig Blog Search",
+    "icon": "figlogo.png",
+    "publisher": "MohitPadhye",
     "description": "",
     "version": "0.0.1",
     "engines": {
